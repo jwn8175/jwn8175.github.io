@@ -3,5 +3,5 @@ title: "About"
 permalink: /about/
 
 # Jay Ni
-## Computer Science student at UC Berkeley
+## Computer Science Student at UC Berkeley
 
